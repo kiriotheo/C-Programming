@@ -13,5 +13,5 @@ The repository is a collection of open-source implementation of a variety of pro
 * Self-checks within programs ensure correct implementations with confidence.
 * Modular implementations and OpenSource licensing enable the functions to be utilized conveniently in other applications.
 
-## contribution
+## Contribution
 This repository is opened for your contribution. let's build it a large collection of c programmatic and algorithmic codes. More to more contributions make it accessible to others and make you a better programmer. So let's do it. 
